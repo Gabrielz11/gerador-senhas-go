@@ -22,18 +22,14 @@ Este é um simples gerador de senhas escrito em **Go** que permite criar senhas 
 ## 🚀 Como Usar
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/gerador-senhas-go.git
+   git clone https://github.com/Gabrielz11/gerador-senhas-go.git
    cd gerador-senhas-go
    ```
-2. **Compile o código**
+2. **Execute o código**
    ```bash
-   go build -o gerador_senhas
+   go run main.go
    ```
-3. **Execute o programa**
-   ```bash
-   ./gerador_senhas
-   ```
-4. **Digite o tamanho da senha desejada** e receba sua senha gerada no terminal! 🎉
+3. **Digite o tamanho da senha desejada** e receba sua senha gerada no terminal! 🎉
 
 ## 🔥 Exemplo de Uso
 ```bash
